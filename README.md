@@ -1,6 +1,6 @@
 # CS50 Finance
 A stock trading simulation website.</br> 
-Created as a project for Harvard University's CS50x course[Introduction to Computer Science(CS50x)](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x "CS50x").</br>
+Created as part of Problem Set for [Harvard University's CS50x course](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x "CS50x").</br>
 ## Technologies used:
 * Front-End: HTML, CSS, Bootstrap
 * Back-End: PHP with MySQL database
